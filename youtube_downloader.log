@@ -1,0 +1,506 @@
+2025-03-29 12:16:25.206 | INFO     | __main__:main:143 - Starting None download
+2025-03-29 12:16:25.306 | ERROR    | __main__:download_media:127 - Error: expected string or bytes-like object, got 'DataFrame'
+2025-03-29 12:16:25.306 | CRITICAL | __main__:main:146 - Fatal error: expected string or bytes-like object, got 'DataFrame'
+2025-03-29 12:16:46.229 | INFO     | __main__:main:143 - Starting None download
+2025-03-29 12:16:46.763 | ERROR    | yt_dlp.YoutubeDL:to_stderr:967 - [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:16:46.764 | ERROR    | __main__:download_media:124 - Download failed: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:16:46.765 | CRITICAL | __main__:main:146 - Fatal error: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:20:48.142 | INFO     | __main__:main:143 - Starting None download
+2025-03-29 12:20:48.663 | ERROR    | yt_dlp.YoutubeDL:to_stderr:967 - [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:20:48.664 | ERROR    | __main__:download_media:124 - Download failed: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:20:48.664 | CRITICAL | __main__:main:146 - Fatal error: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:22:22.152 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 12:22:22.679 | ERROR    | yt_dlp.YoutubeDL:to_stderr:967 - [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:22:22.680 | ERROR    | __main__:download_media:124 - Download failed: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:22:22.681 | CRITICAL | __main__:main:147 - Fatal error: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:24:11.107 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 12:24:11.649 | ERROR    | yt_dlp.YoutubeDL:to_stderr:967 - [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:24:11.650 | ERROR    | __main__:download_media:124 - Download failed: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:24:11.651 | CRITICAL | __main__:main:147 - Fatal error: [0;31mERROR:[0m [generic] '                                          link\n0  https://www.youtube.com/watch?v=__CRWE-L45k\n1  https://www.youtube.com/watch?v=U7gDB634iAA\n2  https://www.youtube.com/watch?v=pKKSdiDuSDY\n3  https://www.youtube.com/watch?v=oZfLJKuAB1Y' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:                                          link
+0  https://www.youtube.com/watch?v=__CRWE-L45k
+1  https://www.youtube.com/watch?v=U7gDB634iAA
+2  https://www.youtube.com/watch?v=pKKSdiDuSDY
+3  https://www.youtube.com/watch?v=oZfLJKuAB1Y" ) to search YouTube
+2025-03-29 12:30:00.946 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 12:30:10.873 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:30:10.874 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:30:10.875 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:30:10.876 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:30:10.884 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:30:10.911 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-03-29 12:30:10.956 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.9%[0m
+2025-03-29 12:30:11.028 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.8%[0m
+2025-03-29 12:30:11.198 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.6%[0m
+2025-03-29 12:30:11.616 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  7.1%[0m
+2025-03-29 12:30:12.227 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 14.2%[0m
+2025-03-29 12:30:13.234 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 25.9%[0m
+2025-03-29 12:30:14.208 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 37.5%[0m
+2025-03-29 12:30:15.199 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 49.4%[0m
+2025-03-29 12:30:16.180 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 61.3%[0m
+2025-03-29 12:30:16.856 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.8%[0m
+2025-03-29 12:30:17.015 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.8%[0m
+2025-03-29 12:30:17.015 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.8%[0m
+2025-03-29 12:30:17.016 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.9%[0m
+2025-03-29 12:30:17.017 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.9%[0m
+2025-03-29 12:30:17.019 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 68.0%[0m
+2025-03-29 12:30:17.037 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 68.3%[0m
+2025-03-29 12:30:17.074 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 68.7%[0m
+2025-03-29 12:30:17.147 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 69.6%[0m
+2025-03-29 12:30:17.307 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 71.4%[0m
+2025-03-29 12:30:17.592 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 74.9%[0m
+2025-03-29 12:30:18.176 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 82.1%[0m
+2025-03-29 12:30:19.135 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 94.3%[0m
+2025-03-29 12:30:19.596 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:30:19.598 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:30:19.727 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:30:19.728 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:30:19.729 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:30:19.730 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.3%[0m
+2025-03-29 12:30:19.736 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.7%[0m
+2025-03-29 12:30:19.757 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.4%[0m
+2025-03-29 12:30:19.795 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  2.8%[0m
+2025-03-29 12:30:19.868 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  5.5%[0m
+2025-03-29 12:30:20.014 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 11.1%[0m
+2025-03-29 12:30:20.309 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 22.2%[0m
+2025-03-29 12:30:20.887 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 44.5%[0m
+2025-03-29 12:30:22.022 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 83.0%[0m
+2025-03-29 12:30:22.459 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:30:22.462 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:30:22.859 | SUCCESS  | __main__:download_media:121 - Download complete: Electro-Light_-_Symbolism_Trap_NCS_-_Copyright_Free_Music.mp4
+2025-03-29 12:33:36.271 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 12:33:45.444 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:33:45.445 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:33:45.447 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:33:45.448 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:33:45.454 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:33:45.472 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:33:45.509 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:33:45.582 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:33:45.724 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.5%[0m
+2025-03-29 12:33:46.013 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.9%[0m
+2025-03-29 12:33:46.609 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.9%[0m
+2025-03-29 12:33:47.597 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.4%[0m
+2025-03-29 12:33:48.575 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  5.0%[0m
+2025-03-29 12:33:49.577 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  6.6%[0m
+2025-03-29 12:33:50.585 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  8.2%[0m
+2025-03-29 12:33:51.145 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.335 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.337 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.338 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.339 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.351 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.364 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.2%[0m
+2025-03-29 12:33:51.397 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.3%[0m
+2025-03-29 12:33:51.472 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.4%[0m
+2025-03-29 12:33:51.617 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.6%[0m
+2025-03-29 12:33:51.903 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 10.1%[0m
+2025-03-29 12:33:52.602 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 11.0%[0m
+2025-03-29 12:33:53.416 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 12.3%[0m
+2025-03-29 12:33:54.437 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 14.0%[0m
+2025-03-29 12:33:55.435 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 15.6%[0m
+2025-03-29 12:33:56.421 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 17.2%[0m
+2025-03-29 12:33:56.997 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.1%[0m
+2025-03-29 12:33:57.018 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.1%[0m
+2025-03-29 12:33:57.019 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.1%[0m
+2025-03-29 12:33:57.020 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.1%[0m
+2025-03-29 12:33:57.021 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.1%[0m
+2025-03-29 12:33:57.029 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.2%[0m
+2025-03-29 12:33:57.047 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.2%[0m
+2025-03-29 12:33:57.079 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.2%[0m
+2025-03-29 12:33:57.154 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.4%[0m
+2025-03-29 12:33:57.306 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.6%[0m
+2025-03-29 12:33:57.684 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 19.1%[0m
+2025-03-29 12:33:58.297 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 20.0%[0m
+2025-03-29 12:33:59.247 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 21.5%[0m
+2025-03-29 12:34:00.210 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 23.1%[0m
+2025-03-29 12:34:01.225 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 24.8%[0m
+2025-03-29 12:34:02.248 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 26.4%[0m
+2025-03-29 12:34:02.962 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.135 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.136 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.137 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.138 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.147 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.164 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.3%[0m
+2025-03-29 12:34:03.203 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.4%[0m
+2025-03-29 12:34:03.275 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.5%[0m
+2025-03-29 12:34:03.418 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.8%[0m
+2025-03-29 12:34:03.726 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 28.2%[0m
+2025-03-29 12:34:04.309 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 29.2%[0m
+2025-03-29 12:34:05.279 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 30.7%[0m
+2025-03-29 12:34:06.286 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 32.4%[0m
+2025-03-29 12:34:07.293 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.0%[0m
+2025-03-29 12:34:08.435 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 35.6%[0m
+2025-03-29 12:34:08.941 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.176 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.177 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.177 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.178 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.186 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.204 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.5%[0m
+2025-03-29 12:34:09.244 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.6%[0m
+2025-03-29 12:34:09.325 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.7%[0m
+2025-03-29 12:34:09.477 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 37.0%[0m
+2025-03-29 12:34:09.767 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 37.4%[0m
+2025-03-29 12:34:10.367 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 38.3%[0m
+2025-03-29 12:34:11.316 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 39.9%[0m
+2025-03-29 12:34:12.336 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 41.5%[0m
+2025-03-29 12:34:13.460 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 43.1%[0m
+2025-03-29 12:34:14.366 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 44.6%[0m
+2025-03-29 12:34:15.087 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.7%[0m
+2025-03-29 12:34:15.115 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.7%[0m
+2025-03-29 12:34:15.116 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.7%[0m
+2025-03-29 12:34:15.118 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.7%[0m
+2025-03-29 12:34:15.119 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.7%[0m
+2025-03-29 12:34:15.125 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.7%[0m
+2025-03-29 12:34:15.138 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.8%[0m
+2025-03-29 12:34:15.189 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.8%[0m
+2025-03-29 12:34:15.255 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.9%[0m
+2025-03-29 12:34:15.405 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 46.2%[0m
+2025-03-29 12:34:15.689 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 46.6%[0m
+2025-03-29 12:34:16.266 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 47.6%[0m
+2025-03-29 12:34:17.271 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 49.2%[0m
+2025-03-29 12:34:18.268 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 50.8%[0m
+2025-03-29 12:34:19.378 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 52.4%[0m
+2025-03-29 12:34:20.267 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 53.8%[0m
+2025-03-29 12:34:20.781 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.806 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.807 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.808 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.809 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.810 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.833 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.7%[0m
+2025-03-29 12:34:20.866 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.8%[0m
+2025-03-29 12:34:20.941 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.9%[0m
+2025-03-29 12:34:21.081 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 55.1%[0m
+2025-03-29 12:34:21.358 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 55.6%[0m
+2025-03-29 12:34:21.933 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 56.5%[0m
+2025-03-29 12:34:22.909 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 58.1%[0m
+2025-03-29 12:34:24.040 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 59.8%[0m
+2025-03-29 12:34:24.928 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 61.3%[0m
+2025-03-29 12:34:25.941 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 62.9%[0m
+2025-03-29 12:34:26.328 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.371 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.372 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.373 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.374 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.379 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.402 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.6%[0m
+2025-03-29 12:34:26.438 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.7%[0m
+2025-03-29 12:34:26.507 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 63.8%[0m
+2025-03-29 12:34:26.663 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.0%[0m
+2025-03-29 12:34:26.931 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.5%[0m
+2025-03-29 12:34:27.500 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 65.4%[0m
+2025-03-29 12:34:28.483 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.0%[0m
+2025-03-29 12:34:29.601 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 68.7%[0m
+2025-03-29 12:34:30.510 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.2%[0m
+2025-03-29 12:34:31.501 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 71.8%[0m
+2025-03-29 12:34:31.993 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.239 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.240 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.241 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.242 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.251 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.269 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.7%[0m
+2025-03-29 12:34:32.299 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.8%[0m
+2025-03-29 12:34:32.373 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.9%[0m
+2025-03-29 12:34:32.514 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 73.1%[0m
+2025-03-29 12:34:32.818 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 73.6%[0m
+2025-03-29 12:34:33.400 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 74.5%[0m
+2025-03-29 12:34:34.525 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 76.1%[0m
+2025-03-29 12:34:35.392 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 77.5%[0m
+2025-03-29 12:34:36.404 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 79.2%[0m
+2025-03-29 12:34:37.393 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 80.8%[0m
+2025-03-29 12:34:37.879 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:37.943 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:37.944 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:37.944 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:37.945 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:37.952 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:37.970 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.6%[0m
+2025-03-29 12:34:38.002 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.7%[0m
+2025-03-29 12:34:38.071 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 81.8%[0m
+2025-03-29 12:34:38.219 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 82.1%[0m
+2025-03-29 12:34:38.501 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 82.5%[0m
+2025-03-29 12:34:39.082 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 83.4%[0m
+2025-03-29 12:34:40.174 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 85.1%[0m
+2025-03-29 12:34:41.084 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 86.5%[0m
+2025-03-29 12:34:42.104 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 88.1%[0m
+2025-03-29 12:34:43.082 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 89.7%[0m
+2025-03-29 12:34:43.755 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.8%[0m
+2025-03-29 12:34:43.981 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.8%[0m
+2025-03-29 12:34:43.982 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.8%[0m
+2025-03-29 12:34:43.983 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.8%[0m
+2025-03-29 12:34:43.984 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.8%[0m
+2025-03-29 12:34:43.989 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.8%[0m
+2025-03-29 12:34:44.005 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.9%[0m
+2025-03-29 12:34:44.044 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.9%[0m
+2025-03-29 12:34:44.116 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 91.0%[0m
+2025-03-29 12:34:44.256 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 91.3%[0m
+2025-03-29 12:34:44.585 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 91.7%[0m
+2025-03-29 12:34:45.233 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 92.7%[0m
+2025-03-29 12:34:46.094 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 94.1%[0m
+2025-03-29 12:34:47.087 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 95.8%[0m
+2025-03-29 12:34:48.109 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 97.5%[0m
+2025-03-29 12:34:49.117 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.1%[0m
+2025-03-29 12:34:49.535 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.556 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.557 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.558 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.559 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.566 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.593 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.8%[0m
+2025-03-29 12:34:49.617 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.9%[0m
+2025-03-29 12:34:49.672 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:34:49.674 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:34:49.714 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:34:49.715 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:34:49.716 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:34:49.718 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-03-29 12:34:49.724 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.7%[0m
+2025-03-29 12:34:49.736 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.5%[0m
+2025-03-29 12:34:49.823 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.0%[0m
+2025-03-29 12:34:49.966 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  6.1%[0m
+2025-03-29 12:34:50.111 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 12.2%[0m
+2025-03-29 12:34:50.392 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 24.3%[0m
+2025-03-29 12:34:50.963 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 48.7%[0m
+2025-03-29 12:34:51.958 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 91.3%[0m
+2025-03-29 12:34:52.152 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:34:52.154 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:34:52.688 | SUCCESS  | __main__:download_media:121 - Download complete: Alice_Cooper_-_Poison_Official_Video_Full_HD_Digitally_Remastered_and_Upscaled.mp4
+2025-03-29 12:40:01.748 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 12:40:10.462 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:40:10.464 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:40:10.465 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:40:10.466 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:40:10.473 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:40:10.492 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-03-29 12:40:10.524 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.8%[0m
+2025-03-29 12:40:10.607 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.6%[0m
+2025-03-29 12:40:10.764 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.3%[0m
+2025-03-29 12:40:11.075 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  6.6%[0m
+2025-03-29 12:40:11.658 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 13.2%[0m
+2025-03-29 12:40:12.802 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 24.5%[0m
+2025-03-29 12:40:13.697 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.5%[0m
+2025-03-29 12:40:14.703 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 45.5%[0m
+2025-03-29 12:40:15.695 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 56.5%[0m
+2025-03-29 12:40:16.415 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.5%[0m
+2025-03-29 12:40:16.615 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.5%[0m
+2025-03-29 12:40:16.616 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.5%[0m
+2025-03-29 12:40:16.617 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.5%[0m
+2025-03-29 12:40:16.618 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.6%[0m
+2025-03-29 12:40:16.627 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.7%[0m
+2025-03-29 12:40:16.651 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 64.9%[0m
+2025-03-29 12:40:16.675 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 65.3%[0m
+2025-03-29 12:40:16.752 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 66.1%[0m
+2025-03-29 12:40:16.896 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.8%[0m
+2025-03-29 12:40:17.270 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 71.1%[0m
+2025-03-29 12:40:17.915 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 77.7%[0m
+2025-03-29 12:40:18.852 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 87.9%[0m
+2025-03-29 12:40:19.807 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 98.9%[0m
+2025-03-29 12:40:19.894 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:40:19.896 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:40:19.984 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:40:19.986 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:40:19.987 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:40:19.988 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-03-29 12:40:20.001 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.9%[0m
+2025-03-29 12:40:20.024 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.8%[0m
+2025-03-29 12:40:20.050 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.6%[0m
+2025-03-29 12:40:20.120 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  7.2%[0m
+2025-03-29 12:40:20.256 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 14.5%[0m
+2025-03-29 12:40:20.551 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 29.1%[0m
+2025-03-29 12:40:21.131 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 58.1%[0m
+2025-03-29 12:40:21.971 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:40:21.974 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:40:22.343 | SUCCESS  | __main__:download_media:121 - Download complete: Naughty_Boy_-_La_la_la_ft._Sam_Smith_Lyrics.mp4
+2025-03-29 12:42:14.798 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 12:42:23.800 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:42:23.802 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:42:23.803 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:42:23.804 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:42:23.811 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:42:23.841 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:42:23.870 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-03-29 12:42:23.949 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.9%[0m
+2025-03-29 12:42:24.091 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.8%[0m
+2025-03-29 12:42:24.400 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.6%[0m
+2025-03-29 12:42:24.986 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  7.2%[0m
+2025-03-29 12:42:25.937 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 13.3%[0m
+2025-03-29 12:42:26.929 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 19.8%[0m
+2025-03-29 12:42:27.941 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 26.3%[0m
+2025-03-29 12:42:29.071 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 32.7%[0m
+2025-03-29 12:42:29.320 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.3%[0m
+2025-03-29 12:42:29.347 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.3%[0m
+2025-03-29 12:42:29.348 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.3%[0m
+2025-03-29 12:42:29.349 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.4%[0m
+2025-03-29 12:42:29.350 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.4%[0m
+2025-03-29 12:42:29.356 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.4%[0m
+2025-03-29 12:42:29.371 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.6%[0m
+2025-03-29 12:42:29.408 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.8%[0m
+2025-03-29 12:42:29.477 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 35.2%[0m
+2025-03-29 12:42:29.625 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.1%[0m
+2025-03-29 12:42:29.892 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 37.9%[0m
+2025-03-29 12:42:30.438 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 41.5%[0m
+2025-03-29 12:42:31.459 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 48.1%[0m
+2025-03-29 12:42:32.452 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.6%[0m
+2025-03-29 12:42:33.504 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 61.1%[0m
+2025-03-29 12:42:34.562 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 67.2%[0m
+2025-03-29 12:42:35.035 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.2%[0m
+2025-03-29 12:42:35.073 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.2%[0m
+2025-03-29 12:42:35.074 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.2%[0m
+2025-03-29 12:42:35.075 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.2%[0m
+2025-03-29 12:42:35.076 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.2%[0m
+2025-03-29 12:42:35.081 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.3%[0m
+2025-03-29 12:42:35.102 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.4%[0m
+2025-03-29 12:42:35.138 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 70.6%[0m
+2025-03-29 12:42:35.202 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 71.1%[0m
+2025-03-29 12:42:35.342 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.0%[0m
+2025-03-29 12:42:35.633 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 73.8%[0m
+2025-03-29 12:42:36.193 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 77.4%[0m
+2025-03-29 12:42:37.185 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 83.8%[0m
+2025-03-29 12:42:38.164 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 90.3%[0m
+2025-03-29 12:42:39.314 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 96.9%[0m
+2025-03-29 12:42:39.784 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:42:39.787 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:42:39.856 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 12:42:39.857 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 12:42:39.858 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 12:42:39.859 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.5%[0m
+2025-03-29 12:42:39.864 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.0%[0m
+2025-03-29 12:42:39.888 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  2.1%[0m
+2025-03-29 12:42:39.921 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  4.3%[0m
+2025-03-29 12:42:39.987 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  8.6%[0m
+2025-03-29 12:42:40.131 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 17.3%[0m
+2025-03-29 12:42:40.410 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 34.6%[0m
+2025-03-29 12:42:40.974 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 69.2%[0m
+2025-03-29 12:42:41.482 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:42:41.485 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 12:42:41.844 | SUCCESS  | __main__:download_media:121 - Download complete: Stray_Kids_LALALALA_Dance_Practice_Video.mp4
+2025-03-29 15:26:44.767 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 15:26:54.167 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 15:26:54.168 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 15:26:54.170 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.5%[0m
+2025-03-29 15:26:54.171 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.1%[0m
+2025-03-29 15:26:54.172 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  2.2%[0m
+2025-03-29 15:26:54.187 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  4.5%[0m
+2025-03-29 15:26:54.227 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.1%[0m
+2025-03-29 15:26:54.318 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.4%[0m
+2025-03-29 15:26:54.468 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.8%[0m
+2025-03-29 15:26:54.767 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 73.6%[0m
+2025-03-29 15:26:54.977 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 15:26:54.979 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 15:26:55.068 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 15:26:55.069 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 15:26:55.070 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 15:26:55.071 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-03-29 15:26:55.077 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.9%[0m
+2025-03-29 15:26:55.092 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.8%[0m
+2025-03-29 15:26:55.129 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.6%[0m
+2025-03-29 15:26:55.217 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  7.2%[0m
+2025-03-29 15:26:55.356 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 14.4%[0m
+2025-03-29 15:26:55.647 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 28.7%[0m
+2025-03-29 15:26:56.188 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 57.5%[0m
+2025-03-29 15:26:57.009 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 15:26:57.011 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 15:26:57.217 | SUCCESS  | __main__:download_media:121 - Download complete: KARRAS_VASILIS-AN_ISASTE_OLES_SAS_SOSTES.mp4
+2025-03-29 17:22:12.754 | INFO     | __main__:main:144 - Starting None download
+2025-03-29 17:22:22.290 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 17:22:22.291 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 17:22:22.292 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-03-29 17:22:22.293 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.5%[0m
+2025-03-29 17:22:22.295 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.1%[0m
+2025-03-29 17:22:22.324 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  2.2%[0m
+2025-03-29 17:22:22.421 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  4.5%[0m
+2025-03-29 17:22:22.609 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  9.0%[0m
+2025-03-29 17:22:22.836 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 18.0%[0m
+2025-03-29 17:22:23.201 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 36.0%[0m
+2025-03-29 17:22:23.874 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 72.0%[0m
+2025-03-29 17:22:24.430 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 17:22:24.432 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 17:22:24.694 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-03-29 17:22:24.695 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-03-29 17:22:24.696 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.3%[0m
+2025-03-29 17:22:24.697 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.7%[0m
+2025-03-29 17:22:24.704 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.5%[0m
+2025-03-29 17:22:24.733 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.1%[0m
+2025-03-29 17:22:24.772 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  6.2%[0m
+2025-03-29 17:22:24.856 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 12.4%[0m
+2025-03-29 17:22:25.023 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 24.8%[0m
+2025-03-29 17:22:25.363 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 49.6%[0m
+2025-03-29 17:22:26.120 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 99.2%[0m
+2025-03-29 17:22:26.134 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 17:22:26.136 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-03-29 17:22:26.327 | SUCCESS  | __main__:download_media:121 - Download complete: _.mp4
+2025-04-05 10:05:37.921 | INFO     | __main__:main:144 - Starting None download
+2025-04-05 10:05:47.407 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-04-05 10:05:47.407 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-04-05 10:05:47.409 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-04-05 10:05:47.410 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-04-05 10:05:47.416 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.9%[0m
+2025-04-05 10:05:47.429 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.8%[0m
+2025-04-05 10:05:47.492 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.7%[0m
+2025-04-05 10:05:47.565 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  7.4%[0m
+2025-04-05 10:05:47.739 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 14.8%[0m
+2025-04-05 10:05:48.081 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 29.7%[0m
+2025-04-05 10:05:48.692 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 59.4%[0m
+2025-04-05 10:05:49.502 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-04-05 10:05:49.505 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-04-05 10:05:49.572 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.0%[0m
+2025-04-05 10:05:49.574 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.1%[0m
+2025-04-05 10:05:49.576 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.2%[0m
+2025-04-05 10:05:49.577 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.4%[0m
+2025-04-05 10:05:49.592 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  0.8%[0m
+2025-04-05 10:05:49.603 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  1.7%[0m
+2025-04-05 10:05:49.641 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  3.4%[0m
+2025-04-05 10:05:49.721 | INFO     | __main__:<lambda>:47 - Progress: [0;94m  6.8%[0m
+2025-04-05 10:05:49.872 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 13.7%[0m
+2025-04-05 10:05:50.172 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 27.4%[0m
+2025-04-05 10:05:50.734 | INFO     | __main__:<lambda>:47 - Progress: [0;94m 54.8%[0m
+2025-04-05 10:05:51.793 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-04-05 10:05:51.796 | INFO     | __main__:<lambda>:47 - Progress: [0;94m100.0%[0m
+2025-04-05 10:05:52.012 | SUCCESS  | __main__:download_media:121 - Download complete: Ciara_-_Paint_It_Black_Audio.mp4
